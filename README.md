@@ -27,7 +27,7 @@ The datasets directory contains
 | `release_year` | Year of Netflix release |
 | `duration` | Duration of the show in minutes |
 | `description` | Description of the show |
-| `genre` | Show genre |
+| `listed_in` | Show genre |
 
 
 ## Conclusion:
