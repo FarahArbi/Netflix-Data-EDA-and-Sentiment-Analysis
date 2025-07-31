@@ -1,4 +1,4 @@
-# Investigating-Netflix-Movies-Project 📺🍿
+# Analyzing Netflix Data - Data Exploration and Sentiment Analysis 
 
 **Netflix**! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.
 
